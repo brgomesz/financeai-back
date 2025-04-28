@@ -1,5 +1,5 @@
-function Subscription() {
-  return <h1>Subscription page</h1>;
+function SubscriptionPage() {
+  return <h1>SubscriptionPage page</h1>;
 }
 
-export default Subscription;
+export default SubscriptionPage;
